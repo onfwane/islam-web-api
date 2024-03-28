@@ -43,9 +43,9 @@ print(response)
 </h3>
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-    • Fork the repositoryCreate a new branch (`git checkout -b feature`)
-    • Make your changesCommit your changes (`git commit -am 'Add new feature'`)
-    • Push to the branch (`git push origin feature`)
+    • Fork the repositoryCreate a new branch (`git checkout -b feature`)<br>
+    • Make your changesCommit your changes (`git commit -am 'Add new feature'`)<br>
+    • Push to the branch (`git push origin feature`)<br>
     • Create a new Pull Request
 
 <h3 align="center">
@@ -53,8 +53,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 </h3>
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sa3ed7asan/islam-web-api/blob/main/LICENSE) file for details.
-`Feel free to customize this template to fit the specific needs and structure of your project.
-Additionally, include any additional sections or information that you think would be helpful for users of your module.`
+```Feel free to customize this template to fit the specific needs and structure of your project.
+Additionally, include any additional sections or information that you think would be helpful for users of your module.```
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
