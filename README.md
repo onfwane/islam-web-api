@@ -43,10 +43,14 @@ print(response)
 </h3>
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:<br>
-<b>    • Fork the repositoryCreate a new branch (`git checkout -b feature`)<b><br>
-    • Make your changesCommit your changes (`git commit -am 'Add new feature'`)<br>
-    • Push to the branch (`git push origin feature`)<br>
-    • Create a new Pull Request
+<ol>
+    <li>Fork the repository</li>
+    <li>Create a new branch (`git checkout -b feature`)</li>
+    <li>Make your changes</li>
+    <li>Commit your changes (`git commit -am 'Add new feature'`)</li>
+    <li>Push to the branch (`git push origin feature`)</li>
+    <li>Create a new Pull Request</li>
+</ol>
 
 <h3 align="center">
     ─「 𝗟𝗜𝗖𝗘𝗡𝗦𝗘 」─
