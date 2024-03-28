@@ -22,7 +22,7 @@ A Python module for interacting with the [Islam Web Website](https://www.islamwe
     ─「 𝗨𝗦𝗔𝗚𝗘 」─
 </h3>
 
-#search function
+# search function
 ```python
 from islam_web import search
 
@@ -30,7 +30,7 @@ response = search("قيام الليل")
 print(response)
 ```
 
-#get fatwa function
+# get fatwa function
 ```python
 from islam_web import get_fatwa
 
