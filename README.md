@@ -27,14 +27,16 @@ A Python module for interacting with the [Islam Web Website](https://www.islamwe
 from islam_web import search
 
 response = search("قيام الليل")
-print(response)```
+print(response)
+```
 
 #get fatwa function
 ```python
 from islam_web import get_fatwa
 
 response = get_fatwa(99274)
-print(response)```
+print(response)
+```
 
 <h3 align="center">
     ─「 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗡𝗚 」─
