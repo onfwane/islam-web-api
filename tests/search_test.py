@@ -9,13 +9,10 @@ query: str = "قيام الليل"
 response: dict = search(query) # param={}, headers={}
 
 # Check if the search request was done correctly.
-if not response["ok"]:
-    print(
-        (
-            f"- I got an error: {response['error_message']}\n"
-            f"- Status code: {response.get('status_code') or 'Status not found'}"
-        )
-    )
+if not response.get("ok", False):
+    error_message = response.get("error_message", "Unknown error")
+    status_code = response.get("status_code", "Status not found")
+    print(f"- I got an error: {error_message}\n- Status code: {status_code}")
 else:
     # Get search result in results var which is list of dictionaries.
     results: list[dict] = response["results"]
