@@ -43,7 +43,7 @@ print(response)
 </h3>
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:<br>
-    • Fork the repositoryCreate a new branch (`git checkout -b feature`)<br>
+<b>    • Fork the repositoryCreate a new branch (`git checkout -b feature`)<b><br>
     • Make your changesCommit your changes (`git commit -am 'Add new feature'`)<br>
     • Push to the branch (`git push origin feature`)<br>
     • Create a new Pull Request
