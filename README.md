@@ -59,7 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 Feel free to customize this template to fit the specific needs and structure of your project.
 Additionally, include any additional sections or information that you think would be helpful for users of your module.
 ```
-━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
